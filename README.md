@@ -1,16 +1,18 @@
-## Hi there 👋
+# Dongmin Jung
 
-<!--
-**oknos7f/oknos7f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Department of Artificial Intelligence, Tech University of Korea (TU Korea)
 
-Here are some ideas to get you started:
+*Contact: oknos7f@tukorea.ac.kr*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Interests
+**Generative Models**, Computer Vision, Autonomous Driving
+
+
+## 🚀 Projects
+
+### 🔹 Diffusion-4DR (In Progress)
+* **Description**: 4D Radar-Conditioned Cross-Modal Latent Diffusion Model for Robust Data Augmentation.
+* **Core Tasks**: 
+    * Developing PyTorch-based advanced generative pipelines to synthesize realistic, adverse-weather RGB images conditioned on sparse 4D Radar point clouds.
